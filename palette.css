@@ -1,0 +1,36 @@
+/**
+ * Red Vintage - Color Palette
+ * CSS Custom Properties
+ */
+
+:root {
+  /* Base colors */
+  --rv-dark-bg: #1c1414;
+  --rv-sidebar-bg: #231815;
+  --rv-activity-bg: #2a1915;
+  --rv-highlight-bg: #3c2622;
+  --rv-selection-bg: #4e342e;
+
+  /* Text colors */
+  --rv-primary-text: #d4c7b9;
+  --rv-secondary-text: #c9bab0;
+  --rv-muted-text: #a18d84;
+  --rv-comment: #8a7570;
+
+  /* Accent colors */
+  --rv-primary-red: #a13c32;
+  --rv-bright-red: #d4827c;
+  --rv-yellow: #c9a554;
+  --rv-bright-yellow: #e6cc94;
+  --rv-green: #8c7c60;
+  --rv-bright-green: #b0a68d;
+
+  /* Cool colors */
+  --rv-purple: #5c5088;
+  --rv-bright-purple: #9590b3;
+  --rv-magenta: #976983;
+  --rv-bright-magenta: #c498b3;
+  --rv-cyan: #807c99;
+  --rv-bright-cyan: #b0acc9;
+  --rv-bright-white: #e9d9c9;
+}

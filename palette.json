@@ -1,0 +1,102 @@
+{
+  "name": "Red Vintage",
+  "description": "A warm, vintage-inspired color palette with deep reds and muted earth tones",
+  "colors": {
+    "base": {
+      "darkBackground": {
+        "hex": "#1c1414",
+        "rgb": [28, 20, 20]
+      },
+      "sidebarBackground": {
+        "hex": "#231815",
+        "rgb": [35, 24, 21]
+      },
+      "activityBackground": {
+        "hex": "#2a1915",
+        "rgb": [42, 25, 21]
+      },
+      "highlightBackground": {
+        "hex": "#3c2622",
+        "rgb": [60, 38, 34]
+      },
+      "selectionBackground": {
+        "hex": "#4e342e",
+        "rgb": [78, 52, 46]
+      }
+    },
+    "text": {
+      "primary": {
+        "hex": "#d4c7b9",
+        "rgb": [212, 199, 185]
+      },
+      "secondary": {
+        "hex": "#c9bab0",
+        "rgb": [201, 186, 176]
+      },
+      "muted": {
+        "hex": "#a18d84",
+        "rgb": [161, 141, 132]
+      },
+      "comment": {
+        "hex": "#8a7570",
+        "rgb": [138, 117, 112]
+      }
+    },
+    "accent": {
+      "primaryRed": {
+        "hex": "#a13c32",
+        "rgb": [161, 60, 50]
+      },
+      "brightRed": {
+        "hex": "#d4827c",
+        "rgb": [212, 130, 124]
+      },
+      "yellow": {
+        "hex": "#c9a554",
+        "rgb": [201, 165, 84]
+      },
+      "brightYellow": {
+        "hex": "#e6cc94",
+        "rgb": [230, 204, 148]
+      },
+      "green": {
+        "hex": "#8c7c60",
+        "rgb": [140, 124, 96]
+      },
+      "brightGreen": {
+        "hex": "#b0a68d",
+        "rgb": [176, 166, 141]
+      }
+    },
+    "cool": {
+      "purple": {
+        "hex": "#5c5088",
+        "rgb": [92, 80, 136]
+      },
+      "brightPurple": {
+        "hex": "#9590b3",
+        "rgb": [149, 144, 179]
+      },
+      "magenta": {
+        "hex": "#976983",
+        "rgb": [151, 105, 131]
+      },
+      "brightMagenta": {
+        "hex": "#c498b3",
+        "rgb": [196, 152, 179]
+      },
+      "cyan": {
+        "hex": "#807c99",
+        "rgb": [128, 124, 153]
+      },
+      "brightCyan": {
+        "hex": "#b0acc9",
+        "rgb": [176, 172, 201]
+      },
+      "brightWhite": {
+        "hex": "#e9d9c9",
+        "rgb": [233, 217, 201]
+      }
+    }
+  }
+}
