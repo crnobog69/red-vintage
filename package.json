@@ -1,0 +1,29 @@
+{
+  "name": "red-vintage-theme",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crnobog69/red-vintage.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red Vintage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  },
+  "description": "A dark theme with red-vintage aesthetics",
+  "displayName": "Red Vintage Theme",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "publisher": "user",
+  "dependencies": {
+    "@vscode/vsce": "^3.2.2"
+  }
+}
