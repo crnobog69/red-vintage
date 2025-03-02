@@ -8,6 +8,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
@@ -22,7 +23,7 @@
   "engines": {
     "vscode": "^1.60.0"
   },
-  "publisher": "user",
+  "publisher": "Crnobog",
   "dependencies": {
     "@vscode/vsce": "^3.2.2"
   }
